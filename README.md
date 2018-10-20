@@ -1,3 +1,1 @@
-# -zhihuaqibing
-
-cocos3d游戏大战
+一款非常酷炫的cocos2dx 3d游戏
